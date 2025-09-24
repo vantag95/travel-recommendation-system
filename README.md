@@ -1,7 +1,7 @@
 ## Travel Recommendation System using Neo4j
 ## Overview
 
-The Travel Recommendation System is designed to provide \*\*personalized travel suggestions\*\* to users based on their preferences, past visits, and social connections. By leveraging graph-based relationships between users, activities, places, and friends, the system delivers recommendations tailored to each user’s interests and social network.
+The Travel Recommendation System is designed to provide personalized travel suggestions to users based on their preferences, past visits, and social connections. By leveraging graph-based relationships between users, activities, places, and friends, the system delivers recommendations tailored to each user’s interests and social network.
 
 ## Key Features
 
